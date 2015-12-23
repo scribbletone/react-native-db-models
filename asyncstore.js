@@ -1,7 +1,7 @@
 'use strict';
 
 var React = require('react-native');
-var Promise = require('promise').Promise;
+var Promise = require('promise');
 
 var AsyncStorage = React.AsyncStorage;
 
